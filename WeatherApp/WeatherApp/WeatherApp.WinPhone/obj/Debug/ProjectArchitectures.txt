@@ -1,0 +1,2 @@
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\Weather-2015\WeatherApp\WeatherApp\WeatherApp.WinPhone\WeatherApp.WinPhone.csproj;neutral
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\Weather-2015\WeatherApp\WeatherApp\WeatherApp\WeatherApp.csproj;neutral

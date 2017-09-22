@@ -1,0 +1,8 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\cheche\documents\learning\learning\innovationlab\weather-2015\weatherapp\weatherapp\weatherapp.winphone\obj\debug\intermediatexaml\weatherapp.winphone.exe" HashGuid="bbdbd564-2388-b983-47d4-d43d0bc974b9" />
+    <ReferenceAssembly PathName="c:\users\cheche\documents\learning\learning\innovationlab\weather-2015\weatherapp\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.extensions.dll" HashGuid="794366f8-cc6d-f0fa-3d07-33b45136e193" />
+    <ReferenceAssembly PathName="c:\users\cheche\documents\learning\learning\innovationlab\weather-2015\weatherapp\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+    <ReferenceAssembly PathName="c:\users\cheche\documents\learning\learning\innovationlab\weather-2015\weatherapp\weatherapp\weatherapp\bin\debug\weatherapp.dll" HashGuid="26994a53-3de3-1532-66b0-b0c97faabc4e" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

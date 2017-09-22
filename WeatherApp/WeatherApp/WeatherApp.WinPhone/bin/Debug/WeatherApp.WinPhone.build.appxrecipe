@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-EBJ3ABM</Machine>
+    <WindowsUser>cheche</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>8877204e-d7ab-4c2a-ba85-df930a47ce48</PackageIdentityName>
+    <PackageIdentityPublisher>CN=joe</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\cheche\Documents\Learning\Learning\InnovationLab\Weather-2015\WeatherApp\WeatherApp\WeatherApp.WinPhone\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\Weather-2015\WeatherApp\WeatherApp\WeatherApp.WinPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\Weather-2015\WeatherApp\WeatherApp\WeatherApp.WinPhone\bin\Debug\WeatherApp.WinPhone.exe">
+      <PackagePath>WeatherApp.WinPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\Weather-2015\WeatherApp\WeatherApp\WeatherApp.WinPhone\bin\Debug\WeatherApp.WinPhone.exe.config">
+      <PackagePath>WeatherApp.WinPhone.exe.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\Weather-2015\WeatherApp\packages\Microsoft.Net.Http.2.2.29\lib\wpa81\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\Weather-2015\WeatherApp\packages\Microsoft.Net.Http.2.2.29\lib\wpa81\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\Weather-2015\WeatherApp\WeatherApp\WeatherApp\bin\Debug\WeatherApp.dll">
+      <PackagePath>WeatherApp.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\Weather-2015\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\Weather-2015\WeatherApp\WeatherApp\WeatherApp.WinPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\Weather-2015\WeatherApp\WeatherApp\WeatherApp.WinPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\Weather-2015\WeatherApp\WeatherApp\WeatherApp.WinPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\Weather-2015\WeatherApp\WeatherApp\WeatherApp.WinPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\Weather-2015\WeatherApp\WeatherApp\WeatherApp.WinPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\Weather-2015\WeatherApp\WeatherApp\WeatherApp.WinPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\Weather-2015\WeatherApp\WeatherApp\WeatherApp.WinPhone\bin\Debug\WeatherApp.WinPhone.xr.xml">
+      <PackagePath>WeatherApp.WinPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\Weather-2015\WeatherApp\WeatherApp\WeatherApp.WinPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\Weather-2015\WeatherApp\WeatherApp\WeatherApp.WinPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\Weather-2015\WeatherApp\WeatherApp\WeatherApp.WinPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
